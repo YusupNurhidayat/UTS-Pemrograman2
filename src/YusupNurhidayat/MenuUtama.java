@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author HP
+ * @author Yusup
  */
 public class MenuUtama extends javax.swing.JFrame {
 
